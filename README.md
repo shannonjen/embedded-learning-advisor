@@ -11,5 +11,4 @@ Employees often struggle with disconnected learning systems and stale documentat
 - **Internal Docs Agent**: Answers from internal (Python docs as proxy) documentation.
 - **External Search Agent**: Uses Google Search API for real-time enrichment.
 - **Career Agent**: Offers skill suggestions aligned with role and growth goals.
-- **LMS Agent**: Recommends learning catalog courses.
 - **Manager Agent**: Orchestrates all interactions and logs session history.
